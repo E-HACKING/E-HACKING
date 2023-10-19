@@ -54,8 +54,7 @@ def psb(z, end = "\n"):
         sys.stdout.flush()
         time.sleep(0.01)
 
-# Logo = f"""                                                                
-{blue}      _____            _      _      
+# Logo = f"""                                                                    
 {blue}     |  __ \     /\   | |    | |     
 {blue}     | |  | |   /  \  | |    | |     
 {blue}     | |  | |  / /\ \ | |    | |     
