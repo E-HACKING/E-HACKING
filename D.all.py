@@ -59,11 +59,11 @@ def psb(z, end = "\n"):
 def logo():
     os.system("clear")
     print("\033[94m┌────────────────────────────────────────┐".center(columns+4))
-    print("\033[94m      │\033[92m      █████╗     █████╗ ██╗     ██╗\033[94m          │".center(columns+14))
+    print("\033[94m      │\033[92m       █████╗     █████╗ ██╗     ██╗\033[94m          │".center(columns+14))
     print("\033[94m      │\033[92m      ██╔══██╗   ██╔══██╗██║     ██║\033[94m          │".center(columns+14))
     print("\033[94m      │\033[92m      ██║  ██║   ███████║██║     ██║\033[94m          │".center(columns+14))
     print("\033[94m      │\033[92m      ██║  ██║   ██╔══██║██║     ██║\033[94m          │".center(columns+14))
-    print("\033[94m            │   \033[92m ██████╔╝██╗██║  ██║███████╗███████╗\033[94m          │".center(columns+14))
+    print("\033[94m          │     \033[92m ██████╔╝██╗██║  ██║███████╗███████╗\033[94m          │".center(columns+14))
     print("\033[94m             │  \033[92m ╚═════╝ ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝\033[94m          │".center(columns+14))
     print("\033[94m│                              \033[94m          │".center(columns+8))
     print("\033[94m│ \033[95mAuthor : DARK-E               \033[94m│".center(columns+14))
