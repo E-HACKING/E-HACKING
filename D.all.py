@@ -67,7 +67,7 @@ def logo():
     print("\033[94m          │     \033[92m ╚═════╝ ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝\033[94m          │".center(columns+14))
     print("│\033[94m                              \033[94m          │".center(columns+8))
     print("\033[94m│          Author : DARK-E               \033[94m│".center(columns+14))
-    print("\033[95m│          Tool   : D.ALL                \033[94m│".center(columns+8))
+    print("\033[94m│          Tool   : D.ALL                \033[94m│".center(columns+8))
     print("│ \033[95mGitHub : https://github.com/E-HACKING \033[94m│".center(columns+8))
     print("│ \033[95mCoder  : HunterSl4d3             \033[37mV2.1  \033[94m│".center(columns+14))
     print("\033[94m       └─────────────────────────────────────────────────┘".center(columns+4))
